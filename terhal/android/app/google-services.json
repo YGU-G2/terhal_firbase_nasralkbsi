@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692512947576",
+    "project_id": "trhal-app",
+    "storage_bucket": "trhal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692512947576:android:86875e1ae7a7c2e44b5c8d",
+        "android_client_info": {
+          "package_name": "com.example.terhal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzn7-NFoUn1AARNyslHnXYVRLfPwDUCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
